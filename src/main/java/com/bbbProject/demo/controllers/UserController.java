@@ -20,7 +20,7 @@ import com.bbbProject.demo.models.User;
 
 import com.bbbProject.demo.services.UserService;
 import com.bbbProject.demo.validators.UserValidator;
-
+//Why did it not work
 @SpringBootApplication
 @Controller
 @RequestMapping("/user")
